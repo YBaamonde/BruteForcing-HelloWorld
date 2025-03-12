@@ -47,7 +47,7 @@ Hola Mundo <br>
 Hola Mundo! <br>
 Hola Mundo!!
 
-Nota
+> **Notas** 
 
-    El programa usa un método ineficiente basado en fuerza bruta. Para cadenas largas, el tiempo de ejecución aumenta significativamente.
-    Su propósito es puramente educativo para visualizar cómo un algoritmo de fuerza bruta encuentra una solución.
+> - El programa usa un método ineficiente basado en fuerza bruta. Para cadenas largas, el tiempo de ejecución aumenta significativamente.
+> - Su propósito es puramente educativo para visualizar cómo un algoritmo de fuerza bruta encuentra una solución.
